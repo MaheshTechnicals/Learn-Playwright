@@ -1,0 +1,44 @@
+[
+  {
+    "title": "https://i0.wp.com/maheshtechnicals.com/wp-content/uploads/2024/05/How-to-Create-Your-First-Game-With-ChatGPT-in-Minutes-1.webp?fit=1024%2C576&ssl=1"
+  },
+  {
+    "title": "https://i0.wp.com/maheshtechnicals.com/wp-content/uploads/2024/05/How-To-Create-An-App-With-CHATGPT-For-Free-In-Minutes.webp?fit=1024%2C576&ssl=1"
+  },
+  {
+    "title": "https://i0.wp.com/maheshtechnicals.com/wp-content/uploads/2024/04/How-To-Create-Unlimited-USA-Gmail-Accounts.webp?fit=640%2C360&ssl=1"
+  },
+  {
+    "title": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20640%20360'%3E%3C/svg%3E"
+  },
+  {
+    "title": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20576'%3E%3C/svg%3E"
+  },
+  {
+    "title": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20640%20360'%3E%3C/svg%3E"
+  },
+  {
+    "title": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20640%20360'%3E%3C/svg%3E"
+  },
+  {
+    "title": "https://i0.wp.com/maheshtechnicals.com/wp-content/uploads/2024/05/How-to-Create-Your-First-Game-With-ChatGPT-in-Minutes-1.webp?fit=75%2C42&ssl=1"
+  },
+  {
+    "title": "https://i0.wp.com/maheshtechnicals.com/wp-content/uploads/2024/05/How-To-Create-An-App-With-CHATGPT-For-Free-In-Minutes.webp?fit=75%2C42&ssl=1"
+  },
+  {
+    "title": "https://i0.wp.com/maheshtechnicals.com/wp-content/uploads/2024/04/How-To-Create-Unlimited-USA-Gmail-Accounts.webp?fit=75%2C42&ssl=1"
+  },
+  {
+    "title": "https://i0.wp.com/maheshtechnicals.com/wp-content/uploads/2024/03/Blockquote-with-Copy-and-Share-Button-Shayari-Box-Script-for-Blogger-and-WordPress.webp?fit=75%2C42&ssl=1"
+  },
+  {
+    "title": "https://i0.wp.com/maheshtechnicals.com/wp-content/uploads/2024/03/How-To-Install-Debian-Neon-Desktop-On-Android-Phone-No-Root.webp?fit=75%2C42&ssl=1"
+  },
+  {
+    "title": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20672%20560'%3E%3C/svg%3E"
+  },
+  {
+    "title": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
+  }
+]
