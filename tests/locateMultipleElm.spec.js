@@ -16,3 +16,14 @@ test("Locate Multiple Elements", async ({ page }) => {
     console.table(store);
     await fs.writeFile("output.txt", JSON.stringify(store, null, 2)); // Convert to JSON and add formatting
 });
+
+
+// Some More Locators Are present which is inbuilt functions of playwright
+
+//page.getByRole()
+// page.getByText()
+//page.getByLabel()
+// page.getByPlaceholder()
+// page.getByAltText()
+// page.getByTitle()
+// page.getByTestId()
